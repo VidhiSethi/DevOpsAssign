@@ -1,0 +1,1 @@
+unsigned int A = 100;
